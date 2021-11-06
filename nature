@@ -1,0 +1,171 @@
+<!doctype html>
+<html class="no-js" lang="fr">
+<head>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142154677-2"></script>
+	<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-142154677-2');
+	</script>
+
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#0f1118" />
+
+	<title>Projet Nature | Luc Hohler | Graphiste - Webdesigner - Développeur front-end</title>
+	<meta name="description" content="Un projet ? Une question ? Discutons-en ! Vous pouvez me joindre par téléphone au 06 31 05 68 30 ou m'envoyer un message par mail.">
+
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Projet Nature | Luc Hohler | Graphiste - Webdesigner - Développeur front-end" />
+	<meta property="og:description" content="Un projet ? Une question ? Discutons-en ! Vous pouvez me joindre par téléphone au 06 31 05 68 30 ou m'envoyer un message par mail." />
+	<meta property="og:url" content="https://www.luchohler.com/nature" />
+	<meta property="og:site_name" content="Luc Hohler" /><meta property="og:image" content="https://www.luchohler.com/img/luchohler.jpg" />
+	<link rel="canonical" href="https://www.luchohler.com/nature" />
+
+	<link rel="icon" type="image/png" href="img/favicon.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/favicon114x114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon72x72.png">
+	<link rel="apple-touch-icon-precomposed" href="img/favicon57x57.png">
+	<link rel="stylesheet" href="dist/css/screen.css">
+</head>
+<body>
+<div class="site-transition"><video class="glitch" autoplay loop muted playsinline><source src="img/glitch.mp4" type="video/mp4"><source src="img/glitch.webm" type="video/webm"></video></div>
+<div class="gotop"></div>
+<div class="img-header-desct">
+	<div class="grain"></div>
+	<div class='animatedimage'>
+			<img alt="" src="nature" data-src="img/animation/animhead_00.jpg"><img alt="" src="nature" data-src="img/animation/animhead_01.jpg"><img alt="" src="nature" data-src="img/animation/animhead_02.jpg"><img alt="" src="nature" data-src="img/animation/animhead_03.jpg"><img alt="" src="nature" data-src="img/animation/animhead_04.jpg"><img alt="" src="nature" data-src="img/animation/animhead_05.jpg"><img alt="" src="nature" data-src="img/animation/animhead_06.jpg"><img alt="" src="nature" data-src="img/animation/animhead_07.jpg">
+			<img alt="" src="nature" data-src="img/animation/animhead_08.jpg"><img alt="" src="nature" data-src="img/animation/animhead_09.jpg"><img alt="" src="nature" data-src="img/animation/animhead_010.jpg"><img alt="" src="nature" data-src="img/animation/animhead_011.jpg"><img alt="" src="nature" data-src="img/animation/animhead_012.jpg"><img alt="" src="nature" data-src="img/animation/animhead_013.jpg"><img alt="" src="nature" data-src="img/animation/animhead_014.jpg"><img alt="" src="nature" data-src="img/animation/animhead_015.jpg"><img alt="" src="nature" data-src="img/animation/animhead_016.jpg"><img alt="" src="nature" data-src="img/animation/animhead_017.jpg"><img alt="" src="nature" data-src="img/animation/animhead_018.jpg"><img alt="" src="nature" data-src="img/animation/animhead_019.jpg"><img alt="" src="nature" data-src="img/animation/animhead_020.jpg"><img alt="" src="nature" data-src="img/animation/animhead_021.jpg"><img alt="" src="nature" data-src="img/animation/animhead_022.jpg"><img alt="" src="nature" data-src="img/animation/animhead_023.jpg"><img alt="" src="nature" data-src="img/animation/animhead_024.jpg"><img alt="" src="nature" data-src="img/animation/animhead_025.jpg"><img alt="" src="nature" data-src="img/animation/animhead_026.jpg"><img alt="" src="nature" data-src="img/animation/animhead_027.jpg"><img alt="" src="nature" data-src="img/animation/animhead_028.jpg"><img alt="" src="nature" data-src="img/animation/animhead_029.jpg"><img alt="" src="nature" data-src="img/animation/animhead_030.jpg"><img alt="" src="nature" data-src="img/animation/animhead_031.jpg"><img alt="" src="nature" data-src="img/animation/animhead_032.jpg"><img alt="" src="nature" data-src="img/animation/animhead_033.jpg"><img alt="" src="nature" data-src="img/animation/animhead_034.jpg"><img alt="" src="nature" data-src="img/animation/animhead_035.jpg"><img alt="" src="nature" data-src="img/animation/animhead_036.jpg"><img alt="" src="nature" data-src="img/animation/animhead_037.jpg"><img alt="" src="nature" data-src="img/animation/animhead_038.jpg"><img alt="" src="nature" data-src="img/animation/animhead_039.jpg"><img alt="" src="nature" data-src="img/animation/animhead_040.jpg"><img alt="" src="nature" data-src="img/animation/animhead_041.jpg"><img alt="" src="nature" data-src="img/animation/animhead_042.jpg"><img alt="" src="nature" data-src="img/animation/animhead_043.jpg"><img alt="" src="nature" data-src="img/animation/animhead_044.jpg"><img alt="" src="nature" data-src="img/animation/animhead_045.jpg"><img alt="" src="nature" data-src="img/animation/animhead_046.jpg"><img alt="" src="nature" data-src="img/animation/animhead_047.jpg"><img alt="" src="nature" data-src="img/animation/animhead_048.jpg"><img alt="" src="nature" data-src="img/animation/animhead_049.jpg"><img alt="" src="nature" data-src="img/animation/animhead_050.jpg"><img alt="" src="nature" data-src="img/animation/animhead_051.jpg"><img alt="" src="nature" data-src="img/animation/animhead_052.jpg"><img alt="" src="nature" data-src="img/animation/animhead_053.jpg"><img alt="" src="nature" data-src="img/animation/animhead_054.jpg"><img alt="" src="nature" data-src="img/animation/animhead_055.jpg"><img alt="" src="nature" data-src="img/animation/animhead_056.jpg"><img alt="" src="nature" data-src="img/animation/animhead_057.jpg"><img alt="" src="nature" data-src="img/animation/animhead_058.jpg"><img alt="" src="nature" data-src="img/animation/animhead_059.jpg"><img alt="" src="nature" data-src="img/animation/animhead_060.jpg"><img alt="" src="nature" data-src="img/animation/animhead_061.jpg"><img alt="" src="nature" data-src="img/animation/animhead_062.jpg"><img alt="" src="nature" data-src="img/animation/animhead_063.jpg"><img alt="" src="nature" data-src="img/animation/animhead_064.jpg"><img alt="" src="nature" data-src="img/animation/animhead_065.jpg"><img alt="" src="nature" data-src="img/animation/animhead_066.jpg"><img alt="" src="nature" data-src="img/animation/animhead_067.jpg"><img alt="" src="nature" data-src="img/animation/animhead_068.jpg"><img alt="" src="nature" data-src="img/animation/animhead_069.jpg"><img alt="" src="nature" data-src="img/animation/animhead_070.jpg"><img alt="" src="nature" data-src="img/animation/animhead_071.jpg"><img alt="" src="nature" data-src="img/animation/animhead_072.jpg"><img alt="" src="nature" data-src="img/animation/animhead_073.jpg"><img alt="" src="nature" data-src="img/animation/animhead_074.jpg"><img alt="" src="nature" data-src="img/animation/animhead_075.jpg"><img alt="" src="nature" data-src="img/animation/animhead_076.jpg"><img alt="" src="nature" data-src="img/animation/animhead_077.jpg"><img alt="" src="nature" data-src="img/animation/animhead_078.jpg"><img alt="" src="nature" data-src="img/animation/animhead_079.jpg"><img alt="" src="nature" data-src="img/animation/animhead_080.jpg"><img alt="" src="nature" data-src="img/animation/animhead_081.jpg"><img alt="" src="nature" data-src="img/animation/animhead_082.jpg"><img alt="" src="nature" data-src="img/animation/animhead_083.jpg"><img alt="" src="nature" data-src="img/animation/animhead_084.jpg"><img alt="" src="nature" data-src="img/animation/animhead_085.jpg"><img alt="" src="nature" data-src="img/animation/animhead_086.jpg"><img alt="" src="nature" data-src="img/animation/animhead_087.jpg"><img alt="" src="nature" data-src="img/animation/animhead_088.jpg"><img alt="" src="nature" data-src="img/animation/animhead_089.jpg"><img alt="" src="nature" data-src="img/animation/animhead_090.jpg"><img alt="" src="nature" data-src="img/animation/animhead_091.jpg"><img alt="" src="nature" data-src="img/animation/animhead_092.jpg"><img alt="" src="nature" data-src="img/animation/animhead_093.jpg"><img alt="" src="nature" data-src="img/animation/animhead_094.jpg"><img alt="" src="nature" data-src="img/animation/animhead_095.jpg"><img alt="" src="nature" data-src="img/animation/animhead_096.jpg"><img alt="" src="nature" data-src="img/animation/animhead_097.jpg"><img alt="" src="nature" data-src="img/animation/animhead_098.jpg"><img alt="" src="nature" data-src="img/animation/animhead_099.jpg"><img alt="" src="nature" data-src="img/animation/animhead_100.jpg"><img alt="" src="nature" data-src="img/animation/animhead_101.jpg"><img alt="" src="nature" data-src="img/animation/animhead_102.jpg"><img alt="" src="nature" data-src="img/animation/animhead_103.jpg"><img alt="" src="nature" data-src="img/animation/animhead_104.jpg"><img alt="" src="nature" data-src="img/animation/animhead_105.jpg"><img alt="" src="nature" data-src="img/animation/animhead_106.jpg"><img alt="" src="nature" data-src="img/animation/animhead_107.jpg"><img alt="" src="nature" data-src="img/animation/animhead_108.jpg"><img alt="" src="nature" data-src="img/animation/animhead_109.jpg"><img alt="" src="nature" data-src="img/animation/animhead_110.jpg"><img alt="" src="nature" data-src="img/animation/animhead_111.jpg"><img alt="" src="nature" data-src="img/animation/animhead_112.jpg"><img alt="" src="nature" data-src="img/animation/animhead_113.jpg"><img alt="" src="nature" data-src="img/animation/animhead_114.jpg"><img alt="" src="nature" data-src="img/animation/animhead_115.jpg"><img alt="" src="nature" data-src="img/animation/animhead_116.jpg"><img alt="" src="nature" data-src="img/animation/animhead_117.jpg"><img alt="" src="nature" data-src="img/animation/animhead_118.jpg"><img alt="" src="nature" data-src="img/animation/animhead_119.jpg"><img alt="" src="nature" data-src="img/animation/animhead_120.jpg"><img alt="" src="nature" data-src="img/animation/animhead_121.jpg"><img alt="" src="nature" data-src="img/animation/animhead_122.jpg"><img alt="" src="nature" data-src="img/animation/animhead_123.jpg"><img alt="" src="nature" data-src="img/animation/animhead_124.jpg"><img alt="" src="nature" data-src="img/animation/animhead_125.jpg"><img alt="" src="nature" data-src="img/animation/animhead_126.jpg"><img alt="" src="nature" data-src="img/animation/animhead_127.jpg"><img alt="" src="nature" data-src="img/animation/animhead_128.jpg"><img alt="" src="nature" data-src="img/animation/animhead_129.jpg"><img alt="" src="nature" data-src="img/animation/animhead_130.jpg"><img alt="" src="nature" data-src="img/animation/animhead_131.jpg"><img alt="" src="nature" data-src="img/animation/animhead_132.jpg"><img alt="" src="nature" data-src="img/animation/animhead_133.jpg"><img alt="" src="nature" data-src="img/animation/animhead_134.jpg"><img alt="" src="nature" data-src="img/animation/animhead_135.jpg"><img alt="" src="nature" data-src="img/animation/animhead_136.jpg"><img alt="" src="nature" data-src="img/animation/animhead_137.jpg"><img alt="" src="nature" data-src="img/animation/animhead_138.jpg"><img alt="" src="nature" data-src="img/animation/animhead_139.jpg"><img alt="" src="nature" data-src="img/animation/animhead_140.jpg"><img alt="" src="nature" data-src="img/animation/animhead_141.jpg"><img alt="" src="nature" data-src="img/animation/animhead_142.jpg"><img alt="" src="nature" data-src="img/animation/animhead_143.jpg"><img alt="" src="nature" data-src="img/animation/animhead_144.jpg"><img alt="" src="nature" data-src="img/animation/animhead_145.jpg"><img alt="" src="nature" data-src="img/animation/animhead_146.jpg"><img alt="" src="nature" data-src="img/animation/animhead_147.jpg"><img alt="" src="nature" data-src="img/animation/animhead_148.jpg"><img alt="" src="nature" data-src="img/animation/animhead_149.jpg"><img alt="" src="nature" data-src="img/animation/animhead_150.jpg"><img alt="" src="nature" data-src="img/animation/animhead_151.jpg">
+	</div>
+	<span></span>
+</div>
+<div id="barba-wrapper">
+    <div class="barba-container" data-namespace="realisation-detail">
+        <div id="GeneralWrapper" class="page_int realisation-detail">
+					<header class="clearfix">
+							<a class="logo" href="index"><img src="img/logo.svg" alt="Logo Luc Hohler"></a>
+							<nav class="main-nav">
+									<ul>
+											<li><a href="index">accueil</a></li>
+											<li><a href="services">services</a></li>
+											<li><a href="a-propos">à propos</a></li>
+											<li><a class="actif" href="projets">projets</a></li>
+											<li><a href="contact">contact</a></li>
+									</ul>
+							</nav>
+							<div class="menuFive"><span></span><span></span><span></span></div>
+							<div itemscope itemtype="http://schema.org/Person" class="perso-vcard-head">
+								<span itemprop="name"><strong>luc hohler</strong></span><br>
+								<span itemprop="jobTitle">graphiste<br>webdesigner<br>développeur front-end</span><br><br>
+								<a href="mailto:&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#108;&#117;&#099;&#104;&#111;&#104;&#108;&#101;&#114;&#046;&#099;&#111;&#109;" itemprop="email"><strong>&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#108;&#117;&#099;&#104;&#111;&#104;&#108;&#101;&#114;&#046;&#099;&#111;&#109;</strong></a><br>
+								<a href="tel:+33631056839" itemprop="telephone"><strong>+33 6 31 05 68 39</strong></a>
+							</div>
+					</header>
+            <div class="content-int">
+                <div class="header-info">
+                    <div class="description-projet row">
+                        <div class="col-12 col-sm-4">
+                            <h1>Digital | 2017</h1>
+                            <h2>Nature<br>Joy</h2>
+														<img src="img/arrow.svg" alt="Flèche bas">
+                        </div>
+                        <div class="col-12 col-sm-8 left-descr">
+                            <p><b>Pour ce client, fabricant de jus de fruits et légumes bio, l’enjeu était de créer un site vendeur avec un petit budget. </b></p>
+                            <p>J’ai donc suivi une ligne simple et élégante afin de souligner la fraîcheur des produits tout en favorisant une grille marquée.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+						<div class="first-bloc lazy-background" style="background-image:url('https://luchohler.com/img/projets/header/nature.jpg');" ></div>
+						<div class="content-int portfolio">
+							<div class="row">
+								<div class="col-12 col-sm-4 first"><img class="lazy" src="https://luchohler.com/img/projets/detail/1L.png" data-src="img/projets/detail/nature1R.png" alt="Image projet"></div>
+								<div class="col-12 col-sm-8 right-descr d-flex align-items-center justify-content-center">
+										<p><b>Activité</b> : vente en ligne<br>
+												<b>Missions</b> : arborescence, identité graphique, webdesign - réalisé pour <a target="_blank" href="https://www.diabolo.com/">diabolo design</a><br>
+												<b>Outils</b> : adobe cc<br>
+										</p>
+								</div>
+								<div class="col-12 last">
+									<img class="lazy" src="https://luchohler.com/img/projets/detail/2L.png" data-src="img/projets/detail/nature2R.png" alt="Image projet">
+								</div>
+							</div>
+						</div>
+						<div class="second-bloc">
+							<div class="content-int clearfix">
+								<img class="lazy" src="https://luchohler.com/img/projets/detail/nature3L.png" data-src="img/projets/detail/nature3R.jpg" alt="Image projet">
+								<img class="lazy shadow light" src="https://luchohler.com/img/projets/detail/nature4L.png" data-src="img/projets/detail/nature4R.jpg" alt="Image projet">
+							</div>
+						</div>
+						<div class="third-bloc">
+							<div class="content-int clearfix">
+								<div class="row">
+									<div class="col-12 col-sm-6"><span style="cursor:pointer" onclick="Barba.Pjax.goTo('moderntimes')">Projet suivant <img src="img/right-arrow.svg" alt="Projet suivant"></img></span></div>
+									<div class="col-12 col-sm-6 link-to">
+										<a data-src="#BFAC8A" href="moderntimes">Moderntimes<br><span>Entre lac et montagnes</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<footer>
+                <div class="content-fluid footer-top">
+                    <div class="content">
+                        <div class="row">
+                            <a href="index"><img class="logo-footer" src="img/logo-footer.svg" alt="Logo Luc Hohler"></a>
+                            <div class="content-footer-top ml-auto">
+															<nav class="nav-footer">
+																	<ul>
+																		<li><a href="index">accueil</a></li>
+																		<li><a href="services">services</a></li>
+																		<li><a href="a-propos">à propos</a></li>
+																		<li><a class="actif" href="projets">projets</a></li>
+																		<li><a href="contact">contact</a></li>
+																	</ul>
+															</nav>
+                                <h3>Un projet, une question ?<br><a href="contact">Discutons-en !</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+								<div class="footer-bottom">
+                    <div class="content">
+                        <div class="row">
+                            <div class="col-6 col-sm-4">
+                                <h2>Contact</h2>
+                                <div class="contact-info">
+                                    <a href="mailto:&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#108;&#117;&#099;&#104;&#111;&#104;&#108;&#101;&#114;&#046;&#099;&#111;&#109;">&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#108;&#117;&#099;&#104;&#111;&#104;&#108;&#101;&#114;&#046;&#099;&#111;&#109;</a><br>
+                                    <a href="tel:+33631056839" class="tel">+33 6 31 05 68 39</a><br>
+                                </div>
+                            </div>
+                            <div class="col-6 col-sm-2">
+                                <h2>Follow</h2>
+																<div class="contact-info">
+
+																		<a target="_blank" href="https://www.instagram.com/luc_hohler/">Instagram</a><br>
+																		<a target="_blank" href="https://www.linkedin.com/in/luc-hohler/">Linkedin</a><br>
+																</div>
+                            </div>
+                            <div class="copyright col-12 col-md-6 align-items-end"><small>© Luc Hohler - 2020<br><strong>Luc Hohler</strong> | Création de site web | <a href="mentions">mentions légales</a></small></div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+</div>
+<aside>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="dist/js/royal_preloader.min.js"></script>
+		<script src="dist/js/barba.min.js"></script>
+		<script src="dist/js/scrollreveal.js"></script>
+		<script src="dist/js/jquery.lazy.min.js"></script>
+    <script src="dist/js/TweenMax.min.js"></script>
+    <script src="dist/js/ScrollToPlugin.js"></script>
+    <script src="dist/js/main.js"></script><script src="dist/js/lity.min.js"></script>
+
+</aside>
+</body>
+</html>
